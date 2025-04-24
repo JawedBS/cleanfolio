@@ -46,11 +46,19 @@ const projects = [
   sourceCode: 'https://github.com/JawedBS/Printit.git',
   livePreview: 'https://jawedbs.github.io/Printit/',
 },
+{
+  name: 'Kasa',
+  description:
+  "Refonte visuelle d’un site vitrine à partir d’une maquette Figma. Mon rôle : intégrer chaque section au pixel près tout en assurant une cohérence d’ensemble. Ce projet m’a permis de perfectionner ma rigueur en intégration HTML/CSS et de travailler la lisibilité d’un site professionnel.",
+  stack: ['HTML', 'CSS', 'JavaScript'],
+  sourceCode: 'https://github.com/JawedBS/Printit.git',
+  livePreview: 'https://dynamic-mochi-540184.netlify.app/',
+},
 ];
 
 const skills = {
-  languages: ['HTML', 'CSS', 'SASS', 'JavaScript'],
-  frameworks: ['React', 'Redux'],
+  languages: ['HTML', 'CSS', 'JavaScript'],
+  frameworks: ['React', 'Redux', 'SASS'],
   tools: ['Git', 'GitHub'],
   others: ['Accessibilité', 'Référencement SEO'],
   intro:
