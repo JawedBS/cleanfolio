@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cleanfolio/static/css/main.3bb2de46.chunk.css",
-    "main.js": "/cleanfolio/static/js/main.c425d2d8.chunk.js",
-    "main.js.map": "/cleanfolio/static/js/main.c425d2d8.chunk.js.map",
-    "runtime-main.js": "/cleanfolio/static/js/runtime-main.c5911904.js",
-    "runtime-main.js.map": "/cleanfolio/static/js/runtime-main.c5911904.js.map",
-    "static/js/2.1c1330bf.chunk.js": "/cleanfolio/static/js/2.1c1330bf.chunk.js",
-    "static/js/2.1c1330bf.chunk.js.map": "/cleanfolio/static/js/2.1c1330bf.chunk.js.map",
-    "index.html": "/cleanfolio/index.html",
-    "static/css/main.3bb2de46.chunk.css.map": "/cleanfolio/static/css/main.3bb2de46.chunk.css.map",
-    "static/js/2.1c1330bf.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.1c1330bf.chunk.js.LICENSE.txt"
+    "main.css": "/JawedBS/cleanfolio.git/static/css/main.3bb2de46.chunk.css",
+    "main.js": "/JawedBS/cleanfolio.git/static/js/main.c425d2d8.chunk.js",
+    "main.js.map": "/JawedBS/cleanfolio.git/static/js/main.c425d2d8.chunk.js.map",
+    "runtime-main.js": "/JawedBS/cleanfolio.git/static/js/runtime-main.53bbfd9c.js",
+    "runtime-main.js.map": "/JawedBS/cleanfolio.git/static/js/runtime-main.53bbfd9c.js.map",
+    "static/js/2.1c1330bf.chunk.js": "/JawedBS/cleanfolio.git/static/js/2.1c1330bf.chunk.js",
+    "static/js/2.1c1330bf.chunk.js.map": "/JawedBS/cleanfolio.git/static/js/2.1c1330bf.chunk.js.map",
+    "index.html": "/JawedBS/cleanfolio.git/index.html",
+    "static/css/main.3bb2de46.chunk.css.map": "/JawedBS/cleanfolio.git/static/css/main.3bb2de46.chunk.css.map",
+    "static/js/2.1c1330bf.chunk.js.LICENSE.txt": "/JawedBS/cleanfolio.git/static/js/2.1c1330bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5911904.js",
+    "static/js/runtime-main.53bbfd9c.js",
     "static/js/2.1c1330bf.chunk.js",
     "static/css/main.3bb2de46.chunk.css",
     "static/js/main.c425d2d8.chunk.js"
