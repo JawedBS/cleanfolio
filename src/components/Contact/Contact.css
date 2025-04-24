@@ -1,3 +1,6 @@
 .contact {
   flex-direction: column;
 }
+.contact__cta {
+  margin-bottom: 2rem;
+}

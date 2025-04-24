@@ -31,17 +31,31 @@ const Navbar = () => {
           </li>
         ) : null}
 
-        {skills.length ? (
-          <li className='nav__list-item'>
-            <a
-              href='#skills'
-              onClick={toggleNavList}
-              className='link link--nav'
-            >
-              Compétences
-            </a>
-          </li>
-        ) : null}
+{(skills.languages?.length ||
+  skills.frameworks?.length ||
+  skills.tools?.length ||
+  skills.others?.length) && (
+  <li className='nav__list-item'>
+    <a
+      href='#skills'
+      onClick={toggleNavList}
+      className='link link--nav'
+    >
+      Compétences
+    </a>
+  </li>
+)}
+
+        <li className='nav__list-item'>
+  <a
+    href='#extra'
+    onClick={toggleNavList}
+    className='link link--nav'
+  >
+    À propos
+  </a>
+</li>
+
 
         {contact.email ? (
           <li className='nav__list-item'>

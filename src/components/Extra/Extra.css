@@ -1,0 +1,23 @@
+.extra__blocks {
+    display: grid;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .extra__block {
+    padding: 1.5rem;
+    border-left: 4px solid var(--primary-color);
+    background: var(--background-alt);
+    border-radius: 12px;
+  }
+  
+  .extra__heading {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .extra__text {
+    white-space: pre-line;
+    color: var(--text-secondary);
+  }
+  
